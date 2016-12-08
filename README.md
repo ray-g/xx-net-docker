@@ -1,5 +1,5 @@
-# xx-net-docker
-XX-Net Docker
+# XX-Net Docker
+XX-Net Docker is to dockerize [XX-Net](https://github.com/XX-net/XX-Net).
 
 ## Build
 
