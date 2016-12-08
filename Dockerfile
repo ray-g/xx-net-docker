@@ -14,4 +14,4 @@ RUN mkdir /xx-net/data
 EXPOSE 1080 8085 8087
 
 WORKDIR /xx-net
-ENTRYPOINT ['/xx-net/code/default/xx_net.sh', 'start']
+ENTRYPOINT ["/xx-net/start"]
