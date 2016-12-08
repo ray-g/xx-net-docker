@@ -26,7 +26,7 @@ Modify XX-Net/data/launcher/config.yaml
   ` launcher:{ allow_remote_connect:1 }`
 
 ## Allow GAE_proxy to provide proxy service for remote hosts
-Modify XX-Net/data/gae_proxy/config.ini
+Add XX-Net/data/gae_proxy/manual.ini
 `[listen]`
 `ip = 0.0.0.0`
 
