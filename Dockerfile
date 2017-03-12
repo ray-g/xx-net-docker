@@ -1,6 +1,6 @@
 FROM python:2.7
 
-RUN git clone https://github.com/XX-net/XX-Net.git xx-net
+RUN git clone https://github.com/XX-net/XX-Net.git /xx-net
 
 RUN apt-get update && apt-get install -y \
 python-openssl \
